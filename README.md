@@ -48,7 +48,7 @@ Each task is organized in a separate folder:
 
 ## 👨‍💻 Author
 
-**Paras Sorthiya**
+**Paras Sorathiya**
 
 ---
 
